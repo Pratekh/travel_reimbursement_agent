@@ -1,0 +1,125 @@
+[
+  {
+    "claim_id": "CLM-001",
+    "employee": "A. Rivera",
+    "trip_start": "2026-06-10",
+    "trip_end": "2026-06-12",
+    "submitted": "2026-06-20",
+    "items": [
+      {
+        "category": "airfare",
+        "description": "Round-trip economy airfare",
+        "amount": 420.0,
+        "receipt_attached": true
+      },
+      {
+        "category": "lodging",
+        "description": "Hotel, 2 nights @ $180",
+        "amount": 360.0,
+        "receipt_attached": true,
+        "nights": 2
+      },
+      {
+        "category": "meals",
+        "description": "Meals, 3 days @ ~$60/day",
+        "amount": 180.0,
+        "receipt_attached": true,
+        "days": 3
+      },
+      {
+        "category": "conference_fees",
+        "description": "Conference registration",
+        "amount": 150.0,
+        "receipt_attached": true
+      }
+    ]
+  },
+  {
+    "claim_id": "CLM-002",
+    "employee": "B. Osei",
+    "trip_start": "2026-06-14",
+    "trip_end": "2026-06-15",
+    "submitted": "2026-06-25",
+    "items": [
+      {
+        "category": "spa",
+        "description": "Hotel spa package",
+        "amount": 300.0,
+        "receipt_attached": true
+      },
+      {
+        "category": "minibar",
+        "description": "In-room minibar",
+        "amount": 80.0,
+        "receipt_attached": true
+      }
+    ]
+  },
+  {
+    "claim_id": "CLM-003",
+    "employee": "C. Nakamura",
+    "trip_start": "2026-06-08",
+    "trip_end": "2026-06-10",
+    "submitted": "2026-06-22",
+    "items": [
+      {
+        "category": "airfare",
+        "description": "Round-trip economy airfare",
+        "amount": 300.0,
+        "receipt_attached": true
+      },
+      {
+        "category": "lodging",
+        "description": "Hotel, 2 nights @ $250",
+        "amount": 500.0,
+        "receipt_attached": true,
+        "nights": 2
+      },
+      {
+        "category": "meals",
+        "description": "Meals, 2 days @ $70/day",
+        "amount": 140.0,
+        "receipt_attached": true,
+        "days": 2
+      }
+    ]
+  },
+  {
+    "claim_id": "CLM-004",
+    "employee": "D. Fischer",
+    "trip_start": "2026-06-16",
+    "trip_end": "2026-06-18",
+    "submitted": "2026-06-28",
+    "items": [
+      {
+        "category": "airfare",
+        "description": "Business-class international airfare",
+        "amount": 2400.0,
+        "receipt_attached": true
+      },
+      {
+        "category": "lodging",
+        "description": "Hotel, 3 nights",
+        "amount": 600.0,
+        "receipt_attached": false,
+        "nights": 3
+      }
+    ]
+  },
+  {
+    "claim_id": "CLM-005",
+    "employee": "E. Haddad",
+    "trip_start": "2026-06-11",
+    "trip_end": "2026-06-11",
+    "submitted": "2026-06-24",
+    "items": [
+      {
+        "category": "meals",
+        "description": "Client dinner for 4 (business development)",
+        "amount": 220.0,
+        "receipt_attached": false,
+        "days": 1
+      }
+    ]
+  }
+]
